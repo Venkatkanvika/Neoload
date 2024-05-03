@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=time
+project.version=8.9
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.10.0
+project.id=668d03a8-12aa-4cc5-872d-270717ef0438
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+project.is-open-test-settings-after-upload=true
+team.server.project=/Venkatkanvika/Neoload

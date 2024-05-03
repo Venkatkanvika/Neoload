@@ -1,0 +1,14 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/timezone/Asia/Kolkata"
+    path="/api/timezone/Asia/Kolkata" postType="1"
+    serverUid="worldtimeapi.org" slaProfileEnabled="false"
+    uid="4e236b6e-ae38-448b-a66c-5c972ac789bb" useKeepAlive="true">
+    <responsePageFileDescription>team/vus/time_kodad/%resources%/recorded-responses/res_4e236b6e-ae38-448b-a66c-5c972ac789bb</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/time_kodad/%resources%/recorded-requests/req_a2dce138-1e6d-4c2b-a758-992a9b37b98f.txt</requestContentFileDescription>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
